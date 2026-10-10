@@ -1,0 +1,14 @@
+{
+    "images": 261,
+    "total_time_seconds": 4.185,
+    "fps": 62.36,
+    "GOOD_predictions": 110,
+    "DEFECT_predictions": 148,
+    "REVIEW_predictions": 3,
+    "accuracy_all": 0.9847,
+    "precision_macro": 0.6644,
+    "recall_macro": 0.655,
+    "f1_macro": 0.6596,
+    "false_accept": 0,
+    "false_reject": 1
+}

@@ -1,0 +1,49 @@
+{
+  "checked_at": "2026-10-09T19:08:36",
+  "reference": "D:\\rojin_lid_ai\\data\\processed\\TinplateLidDATA2024_masked_random80_20",
+  "training_dataset": "D:\\rojin_lid_ai\\data\\processed\\TinplateLidDATA2024_masked_random80",
+  "testing_dataset": "D:\\rojin_lid_ai\\data\\processed\\TinplateLidDATA2024_masked_random20",
+  "reference_counts": {
+    "total": 1307,
+    "by_split_class": {
+      "test/defective": 147,
+      "test/good": 114,
+      "train/defective": 589,
+      "train/good": 457
+    }
+  },
+  "training_counts": {
+    "total": 1046,
+    "by_split_class": {
+      "train/defective": 531,
+      "train/good": 412,
+      "val/defective": 58,
+      "val/good": 45
+    }
+  },
+  "testing_counts": {
+    "total": 261,
+    "by_split_class": {
+      "test/defective": 147,
+      "test/good": 114
+    }
+  },
+  "coverage_match": true,
+  "original_80_20_membership_preserved": true,
+  "train_test_content_overlap_count": 0,
+  "train_val_content_overlap_count": 0,
+  "duplicate_sha256_count": 0,
+  "duplicate_filename_count": 0,
+  "missing_from_new_combined_count": 0,
+  "extra_in_new_combined_count": 0,
+  "reference_train_missing_from_train_val_count": 0,
+  "reference_train_extra_in_train_val_count": 0,
+  "reference_test_missing_from_new_test_count": 0,
+  "reference_test_extra_in_new_test_count": 0,
+  "expected_counts_ok": true,
+  "passed": true,
+  "limitations": [
+    "SHA-256 finds byte-identical files; visually identical images with different encoding may need perceptual duplicate checking.",
+    "Exact source coverage and no content overlap do not prove independence of near-adjacent frames or common recording sessions."
+  ]
+}

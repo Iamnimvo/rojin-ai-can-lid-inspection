@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dataset
+data/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Large training outputs
+runs/
+wandb/
+mlruns/
+
+# Temporary files
+*.log
+*.tmp
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Cache files
+.cache/
+
+# Environment
+.env
+*.csv
