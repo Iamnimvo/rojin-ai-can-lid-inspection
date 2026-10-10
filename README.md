@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="1536" height="1024" alt="56d5403a-f0be-4125-9985-d12063145569" src="https://github.com/user-attachments/assets/dff400dc-fcdf-4cdc-9f36-e7650c072d2f" />
 
 
 # Rojin AI Can Lid Inspection
