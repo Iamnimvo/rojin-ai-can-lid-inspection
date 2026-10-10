@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 # Rojin AI Can Lid Inspection
 
 ## AI-Based Visual Quality Inspection System for Tomato Paste Can Lids
